@@ -256,7 +256,7 @@ figlet Bhai 4 You
 
 
 echo "  "
-echo -e $lightgreen "         Script By Sutariya Parixit"
+echo -e $lightgreen "         Script is Written By Sutariya Parixit"
 echo "   "
 echo -e $lightgreen"  Visit My Site...For More Knowledge about me..!!!"
 
