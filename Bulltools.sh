@@ -29,8 +29,8 @@ echo " "
 echo " "
 
 # install Metasploit-2....
-mkdir Bulltools
-cd Bulltools
+mkdir Bhai4You
+cd Bhai4You
 apt update
 figlet Kingsploit..B4U
 git clone https://github.com/Bhai4You/Metasploit-2.git
