@@ -6,5 +6,13 @@ installation guide
   cd bulltools
   ls
   chmod +x *
-  ./install.sh
+  ./Bulltools.sh or bash Bulltools.sh
+  
+ Bulltools is the combination of many tools like  
+ hakku.b4u 
+ bhai4 you 
+ kingsplopit.b4u
+  hakku.b4y amd many more it helps to hackers to enhancce there skills 
+  thanks for downloading 
 
+use of this tool at your own risk this tool is for educational purspose only
